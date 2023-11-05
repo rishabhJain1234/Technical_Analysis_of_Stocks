@@ -1,4 +1,5 @@
 #To run the app, open cmd in the folder where app.py is downloaded and run the command: python -m streamlit run app.py
+#Alternatively use the link: https://technical-analysis-of-stocks.streamlit.app/
 
 import yfinance as yf
 import pandas as pd
